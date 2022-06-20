@@ -1,0 +1,15 @@
+.avatar {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.post-img-home {
+    height: 200px;
+    object-fit: cover;
+}
+
+.post-img-profile{
+    height: 150px;
+    object-fit: cover;
+}
